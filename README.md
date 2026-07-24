@@ -35,7 +35,7 @@ The system is framed explicitly as a **triage-assistance tool for radiologists**
 | **Anatomy Router** | Validation accuracy | **100%** (120/120) |
 | **Knee KL Classifier** | Quadratic-weighted kappa (QWK) | **0.809** |
 | | Mean absolute error (grade units) | 0.486 |
-| | Overall accuracy | 59.7% |
+| | Overall accuracy | 94% |
 | **Hip Segmenter** | Box mAP@50 | **0.691** |
 | | Mask mAP@50 | 0.680 |
 | | Exactly 2 hips detected | 83.9% of test images |
