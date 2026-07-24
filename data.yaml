@@ -1,0 +1,13 @@
+train: E:\ML\Labeled data\yolov8\train\images
+val: E:\ML\Labeled data\yolov8\train\images
+test: E:\ML\Labeled data\yolov8\train\images
+
+nc: 1
+names: ['bones']
+
+roboflow:
+  workspace: dhh
+  project: ddh-kpfcp
+  version: 3
+  license: Private
+  url: https://app.roboflow.com/dhh/ddh-kpfcp/3
