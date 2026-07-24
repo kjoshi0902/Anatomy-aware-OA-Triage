@@ -232,21 +232,6 @@ See Section 6.5 of the paper for full discussion.
 - [ ] Radiologist-in-the-loop evaluation study
 - [ ] Federated training across institutions
 
----
-
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@article{oa_continuum_2026,
-  title   = {Anatomy-aware Deep Learning Platform for Musculoskeletal Osteoarthritis
-             Continuum: From Infant Hip Dysplasia Screening to Adult Knee
-             Osteoarthritis Grading},
-  author  = {<Your Name>},
-  year    = {2026}
-}
-```
 
 ---
 
